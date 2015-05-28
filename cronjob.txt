@@ -1,0 +1,2 @@
+# m h  dom mon dow   command
+*/2 * * * * /usr/bin/python /path/to/python_temperature_polling_script.py
